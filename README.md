@@ -1,4 +1,3 @@
-# hello-world
 # Olá, eu sou o Lucas 👋
 
 ### 🚀 Desenvolvedor Java Backend (em evolução)
@@ -30,11 +29,10 @@ Atualmente estou aprofundando meus conhecimentos em **Java**, dominando **Orient
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcostadev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcostadev&layout=compact&theme=dark"/>
 </div>
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="lcostadev" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/lcostadev?trk=profile-badge">Lucas Costa</a></div>
-              
+
 ---
 
 ### 🌐 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[lcostadev])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lcostadev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.ctsv@gmail.com)
